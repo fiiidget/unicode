@@ -1,3 +1,5 @@
+// from here, take out just the subdomains: blog.unicode, and cldr.unicode (the whole links?)
+
 ../../alloc/Pipeline.html
 ../alloc/Pipeline.html
 ../charts/
